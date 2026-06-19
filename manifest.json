@@ -1,7 +1,7 @@
 {
   "name": "Censo Alzacola 2026",
   "short_name": "Alzacola",
-  "start_url": "./app_censo_alzacola_2026_movil.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f6f1e7",
