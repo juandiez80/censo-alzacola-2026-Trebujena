@@ -1,0 +1,14 @@
+{
+  "name": "Censo Alzacola 2026",
+  "short_name": "Alzacola",
+  "start_url": "./app_censo_alzacola_2026_movil.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#332615",
+  "description": "App privada para censo de Alzacola Rojizo en Trebujena.",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
